@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Universidade de Aveiro - TI<br>🌱 Front-end Development & UI/UX Design
+🔭 I’m currently studying on Universidade de Aveiro - TI<br>🌱 Full-Stack Development & UI/UX Design
 
 
 # 💻 Tech Stack:
