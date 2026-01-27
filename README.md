@@ -1,15 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently studying on Universidade de Aveiro - TI<br>🌱 Full-Stack Development & UI/UX Design
+## Hello there
 
+If you somehow landed here, welcome.  
+This space is a small snapshot of who I am, what I build, and what I enjoy working on.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gustavogiao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gustavogiao&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogiao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a Computer Science student currently studying at the University of Aveiro, with a strong focus on **backend development** and **well-structured web applications**. I enjoy turning ideas into reliable systems, paying close attention to architecture, data modelling, and clean code.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gustavogiao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do
+
+Most of my work revolves around **server-side development**, where I feel most comfortable designing APIs, handling business logic, and structuring applications that can grow over time.
+
+My strongest stacks are:
+
+- **Laravel (PHP)** — MVC architecture, REST APIs, authentication, Eloquent, Blade
+- **Spring Boot (Java)** — REST services, JPA/Hibernate, layered architecture, clean domain design
+
+On the frontend side, I work mainly with:
+
+- **Vue.js** and **Angular**, building structured and reactive interfaces
+- HTML, CSS, and modern JavaScript
+
+I care about usability, but I care even more about maintainability.
+
+---
+
+## Background
+
+I am currently completing my degree in Information Technologies, where I’ve worked on several academic and personal projects involving full-stack development, databases, and system design.
+
+While studying, I’ve been consistently building projects outside the classroom, experimenting with different technologies, and refining my understanding of how real-world applications should be structured.
+
+I learn best by doing — breaking things, fixing them, and improving them step by step.
+
+---
+
+## Technical Overview
+
+- **Backend**: Laravel, Spring Boot
+- **Frontend**: Vue.js, Angular, JavaScript
+- **Databases**: MySQL (relational modelling, queries)
+- **Tools & Dev**: Git, Apache
+- **UI/UX**: Figma, Canva, Photoshop, GIMP
+
+---
+
+## A few facts about me
+
+- I strongly prefer backend logic over UI-heavy work
+- I enjoy modelling data and application flows before writing code
+- I like projects that solve real problems, even if they are small
+- Clean code and structure matter more to me than fancy features
+- I’m always trying to improve my architectural thinking
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavogiao&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavogiao&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogiao&layout=compact&theme=dark&hide_border=false)
+
+---
